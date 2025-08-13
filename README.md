@@ -1,1 +1,1 @@
-projeto sorteio amigos
+projeto sorteio
